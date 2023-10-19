@@ -1,0 +1,37 @@
+body {
+    background-color: #f0f0f0;
+}
+
+header {
+    font: caption;
+    padding: 20px;
+    text-align: center;
+    margin: -8px -8px 0 -8px;
+    background: #333333;
+    color: rgb(255, 255, 255);
+}
+
+.content {
+    font: caption;
+    color:#333333;
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 15px;
+}
+
+li {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.custom-bullet-text {
+    margin-left: -40px;
+}
